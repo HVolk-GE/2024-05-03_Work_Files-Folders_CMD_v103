@@ -21,9 +21,6 @@ Updates plan:
 When PC-Name is included inside the Source-Folder, these can cut-out from the PC-Name="MyPC" - Source-Foldername eg. "MYPC"Number(String)/Number(String)"MyPC".
 
 
-#######################################################################################################################################################
-# This is my first AutoIT respositorie, for my histrory with these script language: I work with AutoIT since more as 10 Years,
-# but most of the time for business, therefore the most scripts could not make to public respositorie and/or these scripts are to special.
-#
-# I will work on make the idears behind these scripts to make public version, in the future.
-#######################################################################################################################################################
+This is my first AutoIT respositorie, for my histrory with these script language: I work with AutoIT since more as 10 Years,
+but most of the time for business, therefore the most scripts could not make to public respositorie and/or these scripts are to special.
+I will work on make the idears behind these scripts to make public version, in the future.
